@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/SiddheshVA/LeetCode/tree/master/0205-isomorphic-strings) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/SiddheshVA/LeetCode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
