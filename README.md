@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SiddheshVA/LeetCode/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/SiddheshVA/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SiddheshVA/LeetCode/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/SiddheshVA/LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
