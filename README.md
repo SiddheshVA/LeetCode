@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SiddheshVA/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SiddheshVA/LeetCode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/SiddheshVA/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/SiddheshVA/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -29,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SiddheshVA/LeetCode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/SiddheshVA/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/SiddheshVA/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/SiddheshVA/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SiddheshVA/LeetCode/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/SiddheshVA/LeetCode/tree/master/0263-ugly-number) |
 | [1903-largest-odd-number-in-string](https://github.com/SiddheshVA/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
