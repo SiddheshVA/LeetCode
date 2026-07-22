@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SiddheshVA/LeetCode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/SiddheshVA/LeetCode/tree/master/0205-isomorphic-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/SiddheshVA/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/SiddheshVA/LeetCode/tree/master/0263-ugly-number) |
+| [1903-largest-odd-number-in-string](https://github.com/SiddheshVA/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SiddheshVA/LeetCode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/SiddheshVA/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
