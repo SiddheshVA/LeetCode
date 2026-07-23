@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SiddheshVA/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SiddheshVA/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/SiddheshVA/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/SiddheshVA/LeetCode/tree/master/0162-find-peak-element) |
 | [0560-subarray-sum-equals-k](https://github.com/SiddheshVA/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SiddheshVA/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SiddheshVA/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/SiddheshVA/LeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
