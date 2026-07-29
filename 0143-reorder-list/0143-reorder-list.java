@@ -26,7 +26,7 @@ class Solution {
     }
     public void reorderList(ListNode head) {
 
-        if(head==null && head.next==null)
+        if(head==null || head.next==null)
         {
             return;
         }
@@ -61,3 +61,4 @@ class Solution {
         }    
     }
 }
+
