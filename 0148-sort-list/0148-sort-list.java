@@ -69,3 +69,38 @@ class Solution {
         return slow;
     }
 }
+
+// Bubble Sort
+
+// class Solution {
+//     public ListNode sortList(ListNode head) {
+
+//         if(head==null || head.next==null)
+//         {
+//             return head;
+//         }
+
+//         boolean swapped = true;
+
+//         while (swapped)
+//         {
+//             swapped = false;
+
+//             ListNode temp = head;
+
+//             while (temp.next!=null)
+//             {
+//                 if(temp.val>temp.next.val)
+//                 {
+//                     int box = temp.val;
+//                     temp.val = temp.next.val;
+//                     temp.next.val = box;
+
+//                     swapped = true;
+//                 }
+//                 temp = temp.next;
+//             }
+//         }
+//      return head;
+//     }
+// }
