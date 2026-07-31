@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SiddheshVA/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SiddheshVA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/SiddheshVA/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SiddheshVA/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SiddheshVA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SiddheshVA/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SiddheshVA/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/SiddheshVA/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SiddheshVA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SiddheshVA/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SiddheshVA/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SiddheshVA/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SiddheshVA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SiddheshVA/LeetCode/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/SiddheshVA/LeetCode/tree/master/0175-combine-two-tables) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SiddheshVA/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
