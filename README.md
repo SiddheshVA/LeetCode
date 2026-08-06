@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SiddheshVA/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/SiddheshVA/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/SiddheshVA/LeetCode/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/SiddheshVA/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/SiddheshVA/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SiddheshVA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SiddheshVA/LeetCode/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/SiddheshVA/LeetCode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SiddheshVA/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SiddheshVA/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SiddheshVA/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/SiddheshVA/LeetCode/tree/master/0509-fibonacci-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SiddheshVA/LeetCode/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SiddheshVA/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
